@@ -1,5 +1,4 @@
 pygame_camera
 =============
 
-
-camera function in sugar from javascript
+sugar activity made in python, pygame to allow webcam view
