@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-06-26 21:50+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "Pippy"
+
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "%s Bron"
+
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "Kopieer geselecteerde tekst naar klembord"
+
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "Bewerken"
+
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "GEPAUZEERD"
+
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr ""
+"Kan TamTamEdit geluidsbibliotheek niet vinden. Heb je TamTamEdit "
+"geïnstalleerd?"
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr "Uitvoer als Pippy Document"
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr "Uitvoer als Pippy Voorbeeld"
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr "Maakt Activiteitbundel Aan"
+
+#: pippy_app.py:111
+msgid "Actions"
+msgstr "Acties"
+
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "Uitvoeren!"
+
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr "<alt>r"
+
+#: pippy_app.py:152 pippy_app.py:158
+msgid "Stop"
+msgstr "Stop"
+
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr "<alt>s"
+
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr "Wissen"
+
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr "<alt>c"
+
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "Voorbeelden"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr "Mijn voorbeelden"
+
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "%s Activiteit"
+
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "Fout bij bewaren als Activiteit"
+
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr ""
+"Geef je activiteit een betekenisvolle naam voordat je hem bewaart als "
+"activiteit."
+
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "Ok"
+
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "Bezig met activiteit bundel maken..."
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr "Pippy Activiteit"
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr "Bewaar als Voorbeeld Fout"
+
+#: pippy_app.py:484
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr ""
+"Geef je activiteit een betekenisvolle naam voordat je hem bewaart "
+"alsvoorbeeld."
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr "Voorbeeld aanmaken..."
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr "Bewaar als Voorbeeld Waarschuwing"
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr "Dit voorbeeld bestaat al. Wil je het overschrijven?"
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr "Bewaard als voorbeeld."
+
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "Activiteit is bewaard in je dagboek."
+
+#~ msgid "_Run!"
+#~ msgstr "_Uitvoeren!"
+
+#~ msgid "As Pippy Document"
+#~ msgstr "Als Pippy document"
+
+#~ msgid "As Activity Bundle"
+#~ msgstr "Als Activiteit bundel"
+
+#~ msgid "Please install TamTamEdit's sound library."
+#~ msgstr "Installeer aub TamTamEdit's geluidsbibliotheek."
+
+#~ msgid "Stop!"
+#~ msgstr "Stoppen!"

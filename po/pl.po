@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-06-26 22:46+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "Pippy"
+
+# Źródło czegoś, tak?
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "Źródło %s"
+
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "Skopuj zaznaczony tekst do schowka"
+
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "Edytuj"
+
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "PAUZA"
+
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr ""
+"Nie mogę znaleźć biblioteki dźwięków TamTamEdytora. Czy zainstalowałeś "
+"TamTamEdytor?"
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr "Eksportuj jako dokument Pippy"
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr "Eksportuj jako przykładowy dokument Pippy"
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr "Utwórz pakiet aktywności"
+
+#: pippy_app.py:111
+msgid "Actions"
+msgstr "Akcje"
+
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "Uruchom!"
+
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr "<alt>r"
+
+#: pippy_app.py:152 pippy_app.py:158
+msgid "Stop"
+msgstr "Stop"
+
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr "<alt>s"
+
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr "<alt>c"
+
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "Przykłady"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr "Moje przykłady"
+
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "Czynność %s"
+
+# kapitalizacja
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "Zapisz jako błąd Aktywności"
+
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr ""
+"Proszę nadaj swojej czynności nazwę, która ją dobrze opisuje, zanim "
+"zapiszesz ją jako czynność."
+
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "Ok"
+
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "Tworzę pakiet aktywności..."
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr "Aplikacja Pippy"
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr "Zapisz jako przykład błędu"
+
+#: pippy_app.py:484
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr ""
+"Proszę nadaj swojej aktywności nazwę która ją dobrze opisuje, zanim "
+"zapiszesz ją jako przykład."
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr "Tworzę przykład..."
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr "Zapisz jako przykład ostrzeżenia"
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr "Ten przykład już istnieje. Czy chcesz go zmienić?"
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr "Zapisane jako przykład."
+
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "Aktywność zapisana w dzienniku."
+
+#~ msgid "As Pippy Document"
+#~ msgstr "Jako dokument Pippy"
+
+#~ msgid "As Activity Bundle"
+#~ msgstr "Jako Pakiet Aktywności"
+
+#~ msgid "As Pippy Example"
+#~ msgstr "Jako przykład Pippy"

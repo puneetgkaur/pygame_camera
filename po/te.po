@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-06-26 23:01+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "పిప్పీ"
+
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "%s మూలం"
+
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "సెలక్ట్ చేసిన వచనానిని క్లిప్​బోర్డ్​కు నకలుచేయి"
+
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "కూర్చు"
+
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "ఆగినది"
+
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr ""
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr ""
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr ""
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr ""
+
+#: pippy_app.py:111
+msgid "Actions"
+msgstr ""
+
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "నడుపు !"
+
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr ""
+
+#: pippy_app.py:152 pippy_app.py:158
+msgid "Stop"
+msgstr ""
+
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr ""
+
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr ""
+
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr ""
+
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "ఉదాహరణలు"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr ""
+
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "%s వ్యాపకం"
+
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "వ్యాపకంలో పొరబాటుగా బద్రపరచు"
+
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr "మీ వ్యాపకాన్ని దాచేమొందు దానికి ఒక అర్దవంతమైన పేరుఇవ్వండి."
+
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "సరి"
+
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "వ్యపకాల కట్టని తయారు చేస్తున్నా"
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr ""
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr ""
+
+#: pippy_app.py:484
+#, fuzzy
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr "మీ వ్యాపకాన్ని దాచేమొందు దానికి ఒక అర్దవంతమైన పేరుఇవ్వండి."
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr ""
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr ""
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr ""
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr ""
+
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "వ్యపకాన్ని పద్దులో దాచా"
+
+#~ msgid "As Pippy Document"
+#~ msgstr "పిప్పీ దస్తావేజుగా"
+
+#~ msgid "As Activity Bundle"
+#~ msgstr "వ్యాపకాల కట్టగా"
+
+#~ msgid "Please install TamTamEdit's sound library."
+#~ msgstr "దయ చేసి TamTamEdit ధ్వని సముదాయాన్ని ప్రతిష్టించండి "

@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Khaled Hosny <khaledhosny@eglug.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: pippy-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-06-26 20:47+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Arabic <doc@arabeyes.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "بِبِي"
+
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "مصْدر %s"
+
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "انسخ النص المحدد إلى الحافظة"
+
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "حرّر"
+
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "متوقف"
+
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr "تعثر العثور على مكتبة TamTamEdit، هل ثبّتها؟"
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr "صدّر كمستند بِبِي"
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr "صدّر كمثال بِبِي"
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr "أنشئ حزمة نشاط"
+
+#: pippy_app.py:111
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "شغّل"
+
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr "<alt>ش"
+
+#: pippy_app.py:152 pippy_app.py:158
+#, fuzzy
+msgid "Stop"
+msgstr "أوقِف"
+
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr "<alt>ف"
+
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr "امسح"
+
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr "<alt>م"
+
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "أمثلة"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr "أمثلتي"
+
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "نشاط %s"
+
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "عطل في الحفظ كنشاط"
+
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr "من فضلك أعطِ لنشاطك اسما ذا معنى قبل أن تحاول حِفظه كنشاط."
+
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "موافق"
+
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "ينشئ حزمة النشاط..."
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr "نشاط ببي"
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr "عطل في الحفظ كمثال"
+
+#: pippy_app.py:484
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr "من فضلك أعطِ لنشاطك اسما ذا معنى قبل أن تحاول حِفظه كمثال."
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr "ينشئ المثال..."
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr "تحذير في الحفظ كمثال"
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr "المثال موجود مسبقًا. هل تريد الكتابة عليه؟"
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr "حُفظ كمثال."
+
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "حُفِظ النشاط في اليوميّات"
+
+#~ msgid "_Run!"
+#~ msgstr "_شغّل"
+
+#~ msgid "As Pippy Document"
+#~ msgstr "كمستند ببي"
+
+#~ msgid "As Activity Bundle"
+#~ msgstr "كحزمة ببي"
+
+#~ msgid "As Pippy Example"
+#~ msgstr "كمثال ببي"
+
+#~ msgid "Please install TamTamEdit's sound library."
+#~ msgstr "من فضلك ثبّت مكتبة صوت \"طمطم\""
+
+#~ msgid "Stop!"
+#~ msgstr "قف"

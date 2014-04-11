@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-06-24 01:47+0200\n"
+"Last-Translator: lite <litekok@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "小蟒"
+
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "%s 源码"
+
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "将所选文件拷贝到剪贴板"
+
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "编辑"
+
+# literally, "suspended."
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "暂停"
+
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr "找不到TamTamEdit声音库，你有安装TamTamEdit吗？"
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr "导出为小蟒文档"
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr "导出为小蟒范例"
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr "新建活动集"
+
+#: pippy_app.py:111
+msgid "Actions"
+msgstr "动作"
+
+# literally, "go/begin"
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "执行！"
+
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr "<alt>r"
+
+#: pippy_app.py:152 pippy_app.py:158
+msgid "Stop"
+msgstr "停止"
+
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr "<alt>s"
+
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr "清除"
+
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr "<alt>c"
+
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "例子"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr "我的示例"
+
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "%s 活动"
+
+# This is a bad translation - literally, "mistake in preserving as activity."
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "活动保存错误"
+
+# "First give your activity a name, afterwards, save it."
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr "在进行储存前，请为活动取一个有意义的名字。"
+
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "确定"
+
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "创建活动套件包中..."
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr "小蟒活动"
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr "保存为范例时出错"
+
+# "First give your activity a name, afterwards, save it."
+#: pippy_app.py:484
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr "在保存为范例前，请为你的活动取一个有意义的名字。"
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr "创建范例..."
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr "保存为范例时的警告"
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr "该范例已存在。要覆盖它吗？"
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr "保存为范例。"
+
+# Using the existing words for "activity" and "journal" here.
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "活动保存到日志。"
+
+#~ msgid "As Pippy Document"
+#~ msgstr "储存为pippy文件"
+
+#~ msgid "As Activity Bundle"
+#~ msgstr "储存为活动套件包"
+
+#~ msgid "Please install TamTamEdit's sound library."
+#~ msgstr "请安装弹弹编辑的音效资料库。"

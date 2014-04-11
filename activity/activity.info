@@ -1,0 +1,8 @@
+[Activity]
+name = Camera
+bundle_id = org.laptop.Camera
+exec = sugar-activity pygame_cam.pygameCam
+icon = activity-icon
+activity_version = 0.1
+show_launcher = yes
+license = MIT

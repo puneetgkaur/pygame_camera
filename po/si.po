@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# translation of pippy-activity.po to Sinhalese
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: pippy-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-06-26 22:52+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Sinhalese <en@li.org>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "පිපී"
+
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "%s මූලය"
+
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "තෝරන ලද පෙළ පසුරු පුවරුවට පිටපත් කරන්න"
+
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "සකසන්න"
+
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "විරාමයක් ගෙන ඇත"
+
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr "TamTamEdit ශබ්ද පුස්තකාලය සොයාගැනීමට නොහැක. ඔබ TamTamEdit ස්ථාපනය කලාද?"
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr "Pippy ලේඛනයක් ලෙස ආයාත කරන්න"
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr ""
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr ""
+
+#: pippy_app.py:111
+msgid "Actions"
+msgstr "ක්‍රියා"
+
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "දුවන්න!"
+
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr "<alt>r"
+
+#: pippy_app.py:152 pippy_app.py:158
+msgid "Stop"
+msgstr "නවත්වන්න"
+
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr "<alt>s"
+
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr ""
+
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr "<alt>c"
+
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "උදාහරණ"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr ""
+
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "%s ක්‍රියාකාරකම"
+
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "ක්‍රියාකාරකම් දෝෂයක් ලෙස සුරකින්න"
+
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr ""
+"ක්‍රියාකාරකමක් ලෙස සුරකීමට පෙර කරුණාකර ඔබගේ ක්‍රියාකාරකමට අර්ථවත් නමක් "
+"දෙන්න."
+
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "හරි"
+
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "ක්‍රියාකාරකම් පොදියක් සාදයි..."
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr ""
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr ""
+
+#: pippy_app.py:484
+#, fuzzy
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr ""
+"ක්‍රියාකාරකමක් ලෙස සුරකීමට පෙර කරුණාකර ඔබගේ ක්‍රියාකාරකමට අර්ථවත් නමක් "
+"දෙන්න."
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr ""
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr ""
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr ""
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr ""
+
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "ක්‍රියාකාරකම ජ'නලයට සුරකින ලදි."
+
+#~ msgid "As Pippy Document"
+#~ msgstr "පිපී ලිපියක් ලෙස"
+
+#~ msgid "As Activity Bundle"
+#~ msgstr "ක්‍රියාකාරකම් පොදියක් ලෙස"
+
+#~ msgid "Please install TamTamEdit's sound library."
+#~ msgstr "කරුණාකර ටැම්ටැම්එඩිට් හි  නාද ආගාරය ස්ථාපනය කරන්න"

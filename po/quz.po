@@ -1,0 +1,174 @@
+#  SOME DESCRIPTIVE TITLE.
+#  Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+#  This file is distributed under the same license as the PACKAGE package.
+#  FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-19 00:34-0400\n"
+"PO-Revision-Date: 2012-07-16 01:28+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: quz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#  "Peppy"
+#: activity/activity.info:2
+msgid "Pippy"
+msgstr "Amarucha"
+
+#  "%s Fuente"
+#: activity.py:49
+#, python-format
+msgid "%s Source"
+msgstr "%s Código fuente nisqa"
+
+#  "Copiar el texto seleccionado al portapapeles"
+#: activity.py:91
+msgid "Copy selected text to clipboard"
+msgstr "Akllasqa qillqataqa raphi-apaykachaqman kikinchay"
+
+#  "Editar"
+#: activity.py:96 pippy_app.py:113 pippy_app.py:118
+msgid "Edit"
+msgstr "Allinchay"
+
+#  "PAUSADO"
+#: library/pippy/game.py:36
+msgid "PAUSED"
+msgstr "SAYARICHISQA"
+
+#  "No se pudo encontrar la librería de audio de la Actividad TamTamEdit. ¿Ha "
+#  "instalado la Actividad TamTamEdit?"
+#: library/pippy/sound.py:54
+msgid "Cannot find TamTamEdit sound library. Did you install TamTamEdit?"
+msgstr ""
+"Actividad TamTamEdit sutiyuqpiqa manam maypin uyarinakuna kasqantaqa "
+"tarikunchu. Churarankichu chay Actividad TamTamEdit nisqata?"
+
+#: pippy_app.py:90
+msgid "Export as Pippy Document"
+msgstr "Amarucha khipuhinata waqaychay"
+
+#: pippy_app.py:96
+msgid "Export as Pippy Example"
+msgstr "Amarucha khipuhinaman waqaychay"
+
+#: pippy_app.py:102
+msgid "Create Activity Bundle"
+msgstr "Bundle Ruwanata Kamariy"
+
+#  "Acciones"
+#: pippy_app.py:111
+msgid "Actions"
+msgstr "Llamk'aykuna"
+
+# "¡_Empieza!"
+#: pippy_app.py:138 pippy_app.py:141
+msgid "Run!"
+msgstr "Qallariy!"
+
+#  "<alt>r"
+#: pippy_app.py:139
+msgid "<alt>r"
+msgstr "<alt>r"
+
+# "_Parar"
+#: pippy_app.py:152 pippy_app.py:158
+msgid "Stop"
+msgstr "Sayachiy"
+
+#  "<alt>s"
+#: pippy_app.py:153
+msgid "<alt>s"
+msgstr "<alt>s"
+
+# "_Limpiar"
+#: pippy_app.py:167 pippy_app.py:173
+msgid "Clear"
+msgstr "Pichay"
+
+#  "<alt>c"
+#: pippy_app.py:168
+msgid "<alt>c"
+msgstr "<alt>c"
+
+#  "Ejemplos"
+#: pippy_app.py:197
+msgid "Examples"
+msgstr "Qhawarichikuna"
+
+#: pippy_app.py:229
+msgid "My examples"
+msgstr "Qhawarichisqaykuna"
+
+#  "%s Actividad"
+#: pippy_app.py:358
+#, python-format
+msgid "%s Activity"
+msgstr "%s Ruwana"
+
+#  "Guardar como error de la Actividad"
+#: pippy_app.py:438
+msgid "Save as Activity Error"
+msgstr "Ruwanap pantaynintahina waqaychay"
+
+#  "Por favor de a su actividad un nombre con significado antes de intentar "
+#  "guardarlo como una actividad."
+#: pippy_app.py:439
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an activity."
+msgstr "Ruwanaykita manaraq waqaychaspaqa, allin sutitaraq churay."
+
+#  "Bien"
+#: pippy_app.py:442 pippy_app.py:486
+msgid "Ok"
+msgstr "Chaskiy"
+
+#  "Creando una actividad empaquetada..."
+#: pippy_app.py:448
+msgid "Creating activity bundle..."
+msgstr "Q'ipichasqa ruwana kamarikuchkan..."
+
+#: pippy_app.py:479
+msgid "Pippy Activity"
+msgstr "Amarucha Ruwana"
+
+#: pippy_app.py:483
+msgid "Save as Example Error"
+msgstr "Pantay qhawarichina hinata waqaychay"
+
+#  "Por favor de a su actividad un nombre con significado antes de intentar "
+#  "guardarlo como una actividad."
+#: pippy_app.py:484
+msgid ""
+"Please give your activity a meaningful name before attempting to save it as "
+"an example."
+msgstr "Ruwanaykita manaraq waqaychaspaqa, allin sutiwanraq churay."
+
+#: pippy_app.py:492
+msgid "Creating example..."
+msgstr "Qhawarichinam kamarikuchkan..."
+
+#: pippy_app.py:499
+msgid "Save as Example Warning"
+msgstr "Qhawarichina hinata waqaychay"
+
+#: pippy_app.py:500
+msgid "This example already exists. Do you want to overwrite it?"
+msgstr "Kay qhawarichinaqa kanña. Kay pataman qillqayta munankichu?"
+
+#: pippy_app.py:506 pippy_app.py:562
+msgid "Saved as example."
+msgstr "Qhawarichinata waqaychay."
+
+#  "Actividad guardada en el diario."
+#: pippy_app.py:546
+msgid "Activity saved to journal."
+msgstr "Ruwanaqa p'anqapim waqaycharikun."
