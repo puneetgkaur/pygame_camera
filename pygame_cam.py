@@ -15,13 +15,12 @@ class pygameCam(activity.Activity):
 	#init pygame
 	pygame.init()
 	pygame.camera.init()
-	screen=pygame.display.set_mode((640,480))
+	#screen=pygame.display.set_mode((640,480))
     	camlist = pygame.camera.list_cameras()
     	if camlist:
             self.cam = pygame.camera.Camera(camlist[0],(640,480))
 	self.cam.start()
-
-        
+	"""      
         while 1:
 	    self.image=self.cam.get_image()
 	    screen.blit(self.image,(0,0))
@@ -32,12 +31,11 @@ class pygameCam(activity.Activity):
 		    self.image=self.cam.get_image()
 		    self.cam.stop()
 
-	
+	"""	
 	    
 
 	def get_imageStream(self):
 	    self.image=self.cam.get_image()
-	    self.cam.stop()
 	    return self.image
 
 	def stop_camera(self):
